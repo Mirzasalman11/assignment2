@@ -1,5 +1,6 @@
 class dic_up:
     def dic_change(self):
+        print("welcome MY repository")
         import json
 
         # Take user input for the dictionary string
